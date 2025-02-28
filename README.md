@@ -43,8 +43,8 @@ Bevor du beginnst, benötigst du einen **kostenlosen Gemini API Key**, den du hi
 ### **Schritt 2: Repository klonen**  
 Öffne ein Terminal oder eine Eingabeaufforderung und gib folgendes ein:  
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/ai_agent_tutorials/ai_health_fitness_agent
+git clone git@github.com:foozy74/ai_health_fitness_agent.git
+cd /ai_health_fitness_agent
 ```
 
 ### **Schritt 3: Abhängigkeiten installieren**  
