@@ -60,6 +60,3 @@ streamlit run health_agent.py
 Die Anwendung wird nun gestartet und kann über den Browser aufgerufen werden. 🚀  
 
 ---
-
-Falls du noch **Anpassungen oder Verbesserungen** möchtest, sag einfach Bescheid! 😊
-
